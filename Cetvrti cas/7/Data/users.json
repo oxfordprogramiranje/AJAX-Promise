@@ -1,0 +1,32 @@
+[
+    {
+        "id" : 1001,
+        "username" : "Ema",
+        "age" :  17
+    },
+    {
+        "id" : 1002,
+        "username" : "Dusan",
+        "age" :  17
+    },
+    {
+        "id" : 1003,
+        "username" : "Mia",
+        "age" :  16
+    },
+    {
+        "id" : 1005,
+        "username" : "Sava",
+        "age" :  16
+    },
+    {
+        "id" : 1006,
+        "username" : "Ognjen",
+        "age" :  16
+    },
+    {
+        "id" : 1007,
+        "username" : "Teci",
+        "age" :  18
+    }
+]
